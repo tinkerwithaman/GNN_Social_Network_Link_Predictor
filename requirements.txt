@@ -1,0 +1,6 @@
+# GNN_Social_Network_Link_Predictor requirements
+torch>=2.0.0
+torch-geometric>=2.3.0
+networkx>=3.0
+numpy>=1.20
+scikit-learn>=1.0
